@@ -1,6 +1,8 @@
 # RC_ControllerJr
 Small PCB that uses ESP32 to control RC Devices
 
+https://github.com/crabbedh/RC_ControllerJr/blob/main/PCB%20Image.jpeg
+
 This PCB was originally designed to power the small Mini-Dump designed by Professor Boots.
 The advantage of this PCB is that it supports a 2S Lipo and a "Power Switch" that can
 be controlled through software.
