@@ -21,5 +21,7 @@ You are free to download the Zip file to a PCB manufacturer, such as JCLPCB.COM,
 use, or for educational use. You are not permitted to sell products with this PCB. You are not allowed 
 to distribute the gerber files. Please link to this repository.
 
+A component Zip file shows all componenets and images of the assembly.
+
 Dave Crabbe
 Aug 2024
