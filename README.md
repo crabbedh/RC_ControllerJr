@@ -19,9 +19,11 @@ It includes:
 PCB has been tested in a Mini-Dump Junior remix for functionality.
 https://www.printables.com/model/985994-mini-dump-jr-gets-a-new-motor
 
-You are free to download the Zip file to a PCB manufacturer, such as JCLPCB.COM, for your personal
+You are free to download the Zip file to a PCB manufacturer, such as JLCPCB.COM, for your personal
 use, or for educational use. You are not permitted to sell products with this PCB. You are not allowed 
 to distribute the gerber files. Please link to this repository.
+
+In Sept of 2024, the cost of 5 PCBs, shipped to Canada, was $4US ($5.50 Cdn) from JLCPCB.COM. That included all tax, duty, shipping.
 
 A component Zip file shows all componenets and images of the assembly.
 
