@@ -17,6 +17,8 @@ It includes:
 7) Uses 5v switching regulator that can provide 2A of current
 
 PCB has been tested in a Mini-Dump Junior remix for functionality.
+https://www.printables.com/model/985994-mini-dump-jr-gets-a-new-motor
+
 You are free to download the Zip file to a PCB manufacturer, such as JCLPCB.COM, for your personal
 use, or for educational use. You are not permitted to sell products with this PCB. You are not allowed 
 to distribute the gerber files. Please link to this repository.
